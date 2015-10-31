@@ -1,0 +1,40 @@
+
+button {
+  color: black;
+  background-color: #fff;
+  border: 3px solid #ccc;
+   height: 100%;
+  width: 20%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 20px;
+  font-size: 29px;
+  font-style: italic;
+}
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url("http://img10.deviantart.net/81e2/i/2010/228/9/2/modern_background_by_syin3d.jpg");
+background-size: 100% auto;
+background-repeat: no-repeat;
+float: center;
+
+}
+body {
+ color: #fff; 
+  text-align: center;
+ font-size: 18px;
+}
+
+.site-wrapper {
+  display: table;
+  width: 100%;
+  min-height: 100%;
+  
+ }
+
+.inner {
+  padding: 30px;}
+
